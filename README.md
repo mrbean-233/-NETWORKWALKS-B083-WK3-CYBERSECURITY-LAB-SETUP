@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 1st Way - JTR 
+## 📑 PM1 - JTR 
 
 ### Installation and Setup
 Download John the Ripper and the John GUI from the official website, run the setup file & install Johnny.
@@ -40,7 +40,7 @@ Click on the **Open password file** and open a downloaded `$pdf$` hash file. Aft
 ---
 
 
-### 📑 2nd Way - NW Tools
+### 📑 PM2 - NW Tools
 
 ### Upload the PDF & Extract Its Hash
 On the **Hash Calculator** tool (PDF tab), upload the locked PDF file and copy the crackable hash displayed.
